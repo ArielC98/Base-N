@@ -4,6 +4,7 @@
   margin: 1% auto;
   background-color: rgb(23, 226, 114);
   max-width: 1000px;
+  width: 40%;
   min-width: 700px;
   height: 10vh;
   min-height: 80px;
@@ -14,6 +15,7 @@
   margin: 1% auto;
   background-color: rgb(230, 200, 49);
   max-width: 1000px;
+  width: 40%;
   min-width: 700px;
   height: 70vh;
   min-height: 600px;
@@ -61,63 +63,4 @@
   position: relative;
   top:-10%;
   left: 37%;
-}
-
-.arrow{
-  width:10%;
-  height:10%;
-  background-color:rgb(204, 137, 37);
-  position :relative;
-  top: -74.5%;
-  left: 46%;
-}
-
-#cuerpo{
-  width:50%;
-  height:50%;
-  background-color:white;
-  position: relative;
-  top:25%;
-}
-
-#punta1{
-
-
-  width:50%;
-  height:50%;
-  background-color:white;
-  position: relative;
-  left: 50%;
-  top: -50%;
-}
-
-#punta2{
-  width:50%;
-  height:50%;
-  background-color:white;
-  position: relative;
-  left: 50%;
-  top: -50%;
-}
-
-#punta3{
-
-  width:70%;
-  height:50%;
-  background-color:inherit;
-  position: relative;
-  top: -168%;
-  left: 45%;
-  transform: rotate(42deg);
-}
-
-#punta4{
-
-  width:70%;
-  height:50%;
-  background-color:inherit;
-  position: relative;
-  top: -132%;
-  left: 45%;
-  transform: rotate(-42deg);
 }
